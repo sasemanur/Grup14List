@@ -6,7 +6,7 @@ public class Grup14Sayim {
 
         // Adınızı buraya ekleyiniz
         grupUyeleri.add("Barış Öner");
-        grupUyeleri.add("Sema Nur ARSLAN");
+        grupUyeleri.add("Sema Nur arslan");
 
         for (String s : grupUyeleri) {
             System.out.println(s);
